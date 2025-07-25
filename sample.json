@@ -1,0 +1,222 @@
+[
+  {
+    "partition_id":"partition_1",
+    "file_count":252,
+    "avg_file_size_mb":62.0,
+    "total_size_mb":15624.72,
+    "delete_file_count":98,
+    "delete_ratio":0.39,
+    "avg_delete_file_size_mb":8.93,
+    "partition_access_frequency":847,
+    "small_file_count": 102
+  },
+  {
+    "partition_id":"partition_2",
+    "file_count":202,
+    "avg_file_size_mb":166.69,
+    "total_size_mb":33672.34,
+    "delete_file_count":44,
+    "delete_ratio":0.22,
+    "avg_delete_file_size_mb":6.35,
+    "partition_access_frequency":353,
+    "small_file_count": 24
+  },
+  {
+    "partition_id":"partition_3",
+    "file_count":372,
+    "avg_file_size_mb":198.85,
+    "total_size_mb":73970.91,
+    "delete_file_count":21,
+    "delete_ratio":0.06,
+    "avg_delete_file_size_mb":8.55,
+    "partition_access_frequency":631,
+    "small_file_count": 53
+  },
+  {
+    "partition_id":"partition_4",
+    "file_count":184,
+    "avg_file_size_mb":50.66,
+    "total_size_mb":9320.67,
+    "delete_file_count":31,
+    "delete_ratio":0.17,
+    "avg_delete_file_size_mb":7.02,
+    "partition_access_frequency":137,
+    "small_file_count": 145
+  },
+  {
+    "partition_id":"partition_5",
+    "file_count":485,
+    "avg_file_size_mb":235.42,
+    "total_size_mb":114176.38,
+    "delete_file_count":19,
+    "delete_ratio":0.04,
+    "avg_delete_file_size_mb":3.32,
+    "partition_access_frequency":571,
+    "small_file_count": 123
+  },
+  {
+    "partition_id":"partition_6",
+    "file_count":415,
+    "avg_file_size_mb":101.97,
+    "total_size_mb":42316.44,
+    "delete_file_count":49,
+    "delete_ratio":0.12,
+    "avg_delete_file_size_mb":5.68,
+    "partition_access_frequency":654,
+    "small_file_count": 256
+  },
+  {
+    "partition_id":"partition_7",
+    "file_count":321,
+    "avg_file_size_mb":85.39,
+    "total_size_mb":27411.27,
+    "delete_file_count":23,
+    "delete_ratio":0.07,
+    "avg_delete_file_size_mb":2.91,
+    "partition_access_frequency":511,
+    "small_file_count": 267
+  },
+  {
+    "partition_id":"partition_8",
+    "file_count":55,
+    "avg_file_size_mb":240.17,
+    "total_size_mb":13209.53,
+    "delete_file_count":69,
+    "delete_ratio":1.25,
+    "avg_delete_file_size_mb":3.44,
+    "partition_access_frequency":236,
+    "small_file_count": 5
+  },
+  {
+    "partition_id":"partition_9",
+    "file_count":358,
+    "avg_file_size_mb":16.37,
+    "total_size_mb":5859.82,
+    "delete_file_count":14,
+    "delete_ratio":0.04,
+    "avg_delete_file_size_mb":7.92,
+    "partition_access_frequency":941,
+    "small_file_count": 287
+  },
+  {
+    "partition_id":"partition_10",
+    "file_count":274,
+    "avg_file_size_mb":164.79,
+    "total_size_mb":45151.59,
+    "delete_file_count":85,
+    "delete_ratio":0.31,
+    "avg_delete_file_size_mb":8.09,
+    "partition_access_frequency":752,
+    "small_file_count": 85
+  },
+  {
+    "partition_id":"partition_11",
+    "file_count":420,
+    "avg_file_size_mb":175.78,
+    "total_size_mb":73827.73,
+    "delete_file_count":3,
+    "delete_ratio":0.01,
+    "avg_delete_file_size_mb":6.06,
+    "partition_access_frequency":768,
+    "small_file_count": 106
+  },
+  {
+    "partition_id":"partition_12",
+    "file_count":332,
+    "avg_file_size_mb":50.63,
+    "total_size_mb":16810.2,
+    "delete_file_count":7,
+    "delete_ratio":0.02,
+    "avg_delete_file_size_mb":4.08,
+    "partition_access_frequency":469,
+    "small_file_count": 278
+  },
+  {
+    "partition_id":"partition_13",
+    "file_count":397,
+    "avg_file_size_mb":102.52,
+    "total_size_mb":40699.3,
+    "delete_file_count":55,
+    "delete_ratio":0.14,
+    "avg_delete_file_size_mb":6.2,
+    "partition_access_frequency":903,
+    "small_file_count": 175
+  },
+  {
+    "partition_id":"partition_14",
+    "file_count":258,
+    "avg_file_size_mb":93.66,
+    "total_size_mb":24164.01,
+    "delete_file_count":18,
+    "delete_ratio":0.07,
+    "avg_delete_file_size_mb":9.79,
+    "partition_access_frequency":884,
+    "small_file_count": 183
+  },
+  {
+    "partition_id":"partition_15",
+    "file_count":247,
+    "avg_file_size_mb":59.2,
+    "total_size_mb":14623.21,
+    "delete_file_count":86,
+    "delete_ratio":0.35,
+    "avg_delete_file_size_mb":8.65,
+    "partition_access_frequency":914,
+    "small_file_count": 129
+  },
+  {
+    "partition_id":"partition_16",
+    "file_count":159,
+    "avg_file_size_mb":187.63,
+    "total_size_mb":29832.74,
+    "delete_file_count":85,
+    "delete_ratio":0.53,
+    "avg_delete_file_size_mb":9.34,
+    "partition_access_frequency":426,
+    "small_file_count": 94
+  },
+  {
+    "partition_id":"partition_17",
+    "file_count":395,
+    "avg_file_size_mb":12.05,
+    "total_size_mb":4760.93,
+    "delete_file_count":83,
+    "delete_ratio":0.21,
+    "avg_delete_file_size_mb":7.45,
+    "partition_access_frequency":568,
+    "small_file_count": 312
+  },
+  {
+    "partition_id":"partition_18",
+    "file_count":72,
+    "avg_file_size_mb":187.12,
+    "total_size_mb":13472.39,
+    "delete_file_count":71,
+    "delete_ratio":0.99,
+    "avg_delete_file_size_mb":3.3,
+    "partition_access_frequency":77,
+    "small_file_count": 14
+  },
+  {
+    "partition_id":"partition_19",
+    "file_count":204,
+    "avg_file_size_mb":54.66,
+    "total_size_mb":11149.82,
+    "delete_file_count":66,
+    "delete_ratio":0.32,
+    "avg_delete_file_size_mb":5.75,
+    "partition_access_frequency":46,
+    "small_file_count": 196
+  },
+  {
+    "partition_id":"partition_20",
+    "file_count":131,
+    "avg_file_size_mb":15.27,
+    "total_size_mb":1999.81,
+    "delete_file_count":58,
+    "delete_ratio":0.44,
+    "avg_delete_file_size_mb":5.39,
+    "partition_access_frequency":711,
+    "small_file_count": 107
+  }
+]
